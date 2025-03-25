@@ -1,5 +1,5 @@
 {
-  "name": "goit-typescript-hw-01--",
+  "name": "goit-typescript-hw-01",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,5 +11,8 @@
   "devDependencies": {
     "typescript": "~5.7.2",
     "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "axios": "^1.8.2"
   }
 }
